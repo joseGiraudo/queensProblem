@@ -36,7 +36,19 @@ namespace ej1QueensAttack
             {
                 for (int i = 0; i < queens.Length; i++)
                 {
-                    Console.WriteLine(queens[i]);
+                    // Console.WriteLine(queens[i]);
+
+                    for (int j = 0; j < queens.Length; j++)
+                    {
+                        if (queens[i] == j)
+                        {
+                            Console.Write("[Q] ");
+                        } else
+                        {
+                            Console.Write("[ ] ");
+                        }
+                    }
+                    Console.WriteLine();
 
                 }
             }
