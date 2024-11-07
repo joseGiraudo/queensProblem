@@ -1,0 +1,7 @@
+C:\Users\joseg\OneDrive\Documentos\bootcamp extrados\segunda parte - BE\ej1QueensAttack\bin\Debug\ej1QueensAttack.exe.config
+C:\Users\joseg\OneDrive\Documentos\bootcamp extrados\segunda parte - BE\ej1QueensAttack\bin\Debug\ej1QueensAttack.exe
+C:\Users\joseg\OneDrive\Documentos\bootcamp extrados\segunda parte - BE\ej1QueensAttack\bin\Debug\ej1QueensAttack.pdb
+C:\Users\joseg\OneDrive\Documentos\bootcamp extrados\segunda parte - BE\ej1QueensAttack\obj\Debug\ej1QueensAttack.csproj.AssemblyReference.cache
+C:\Users\joseg\OneDrive\Documentos\bootcamp extrados\segunda parte - BE\ej1QueensAttack\obj\Debug\ej1QueensAttack.csproj.CoreCompileInputs.cache
+C:\Users\joseg\OneDrive\Documentos\bootcamp extrados\segunda parte - BE\ej1QueensAttack\obj\Debug\ej1QueensAttack.exe
+C:\Users\joseg\OneDrive\Documentos\bootcamp extrados\segunda parte - BE\ej1QueensAttack\obj\Debug\ej1QueensAttack.pdb
